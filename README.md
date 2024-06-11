@@ -46,15 +46,15 @@ Once the game starts, you can use the arrow keys to move the tiles on the board.
 
 ### Start Menu
 
-![Start Menu](images/start_menu.png)
+<img src="images/start_menu.png" alt="Start Menu" width="300"/>
 
 ### Game
 
-![Game](images/game.png)
+<img src="images/game.png" alt="Game" width="300"/>
 
 ### Game Over Menu
 
-![Game Over Menu](images/game_over_menu.png)
+<img src="images/game_over_menu.png" alt="Game Over Menu" width="300"/>
 
 ## Contributors
 
