@@ -2,7 +2,7 @@
 
 # Python 2048 Game
 
-This Python script implements the classic 2048 game using the Pygame library.
+This Python implemention of the classic 2048 game using the Pygame library.
 
 ## Installation
 
@@ -12,11 +12,11 @@ To run the game, you need Python and Pygame installed on your system. If you hav
 pip install pygame
 ```
 
-Clone this repository to your local machine and navigate to the directory containing the script.
+Clone this repository to your local machine and navigate to the directory containing the script file(`.json`).
 
 ## Usage
 
-Run the script using Python:
+Run the game using Python:
 
 ```
 python 2048.py
