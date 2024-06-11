@@ -42,6 +42,20 @@ Once the game starts, you can use the arrow keys to move the tiles on the board.
   - `game_over_menu.png`: Image of the game over menu.
 - `2048.json`: JSON file used to store and load high scores and the number of rounds played.
 
+## Buttons
+
+The game interface includes four buttons:
+
+- `Start`: Click this button to start the game. It appears at the beginning of the game and allows you to initiate the gameplay. This button will change the game screen to the gameplay interface, hiding the start menu.
+
+- `Try Again`: This button appears when the game is over, giving you the option to try again. Clicking it resets the game board and allows you to make another attempt to reach the 2048 tile. This button will reset the game board and score, returning you to the start menu to begin a new game round.
+
+- `New Game`: Resets the game board and starts a new game. You can click this button to begin a fresh game round. This button will reset the game board and score, allowing you to start a new game session without ending the current one.
+
+- `Reset Game`: Resets the current game session, clearing the board and resetting the score. Use this button if you want to start over without ending the current session. This button will reset the game board and score, allowing you to continue playing without starting a new game session.
+
+These buttons provide convenient controls for managing your game experience and starting new rounds whenever you're ready.
+
 ## Screenshots
 
 <table style="border: none; width: 100%;">
