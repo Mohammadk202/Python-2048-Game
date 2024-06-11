@@ -44,20 +44,23 @@ Once the game starts, you can use the arrow keys to move the tiles on the board.
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-around;">
-    <div>
-        <h3>Start Menu</h3>
-        <img src="images/start_menu.png" alt="Start Menu" width="200"/>
-    </div>
-    <div>
-        <h3>Game</h3>
-        <img src="images/game.png" alt="Game" width="200"/>
-    </div>
-    <div>
-        <h3>Game Over Menu</h3>
-        <img src="images/game_over_menu.png" alt="Game Over Menu" width="200"/>
-    </div>
-</div>
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+      <h3>Start Menu</h3>
+      <img src="images/start_menu.png" alt="Start Menu" width="300"/>
+    </td>
+    <td style="text-align: center;">
+      <h3>Game</h3>
+      <img src="images/game.png" alt="Game" width="300"/>
+    </td>
+    <td style="text-align: center;">
+      <h3>Game Over Menu</h3>
+      <img src="images/game_over_menu.png" alt="Game Over Menu" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
